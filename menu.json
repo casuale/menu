@@ -1,16 +1,22 @@
 [
-    {
-        "id": 1,
-        "name": "Pizza",
-        "price": 10.99,
-        "description": "Delicious cheese pizza",
-        "image": "https://raw.githubusercontent.com/casuale/menu/main/img/favicon.png"
-    },
-    {
-        "id": 2,
-        "name": "Burger",
-        "price": 8.99,
-        "description": "Juicy beef burger",
-        "image": "https://raw.githubusercontent.com/casuale/menu/main/img/instagram.png"
-    }
+  {
+    "id": 1,
+    "name": "Pizza",
+    "price": 10.99,
+    "description": "Delicious cheese pizza",
+    "image": "https://raw.githubusercontent.com/casuale/menu/main/img/favicon.png"
+  },
+  {
+    "id": 2,
+    "name": "Burger",
+    "price": 8.99,
+    "description": "Juicy beef burger",
+    "image": "https://raw.githubusercontent.com/casuale/menu/main/img/instagram.png"
+  },
+  {
+    "name": "asd",
+    "description": "asdasd",
+    "price": "1000",
+    "image": ""
+  }
 ]
