@@ -10,5 +10,11 @@
     "description": "1241241",
     "price": 1000,
     "image": "img/1733994818322_Рулет из говядины.jpg"
+  },
+  {
+    "name": "asdasd",
+    "description": "124141",
+    "price": 5500,
+    "image": "img/1733994845501_Сосиски говяжьи.jpg"
   }
 ]
