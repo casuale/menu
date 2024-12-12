@@ -4,11 +4,5 @@
     "description": "Delicious cheese pizza",
     "price": 9.99,
     "image": "img/favicon.png"
-  },
-  {
-    "name": "Burger",
-    "description": "Juicy beef burger",
-    "price": 7.99,
-    "image": "img/instagram.png"
   }
 ]
