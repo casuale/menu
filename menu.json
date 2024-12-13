@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "category": "asdasd",
+    "items": [
+      {
+        "img": "img/Колбаса куриная, варёная.jpg",
+        "name": "asdsad",
+        "description": "1241241",
+        "price": 5125215,
+        "mass": "кг"
+      }
+    ]
+  }
+]
