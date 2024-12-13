@@ -2,5 +2,15 @@
   {
     "category": "asdasd",
     "items": []
+  },
+  {
+    "category": "2",
+    "items": [
+      {
+        "name": "sadasd",
+        "description": "2142141412",
+        "price": 5125125125
+      }
+    ]
   }
 ]
