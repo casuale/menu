@@ -1,17 +1,18 @@
 [
   {
     "category": "asdasd",
-    "items": []
-  },
-  {
-    "category": "2",
     "items": [
       {
+        "img": "img/Деликатес курицый_6.jpg",
         "name": "SUKA",
         "description": "NERABOTAET",
         "price": 124124,
-        "mass": "л"
+        "mass": ""
       }
     ]
+  },
+  {
+    "category": "2",
+    "items": []
   }
 ]
