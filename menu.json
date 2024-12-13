@@ -1,7 +1,13 @@
 [
   {
     "category": "asdasd",
-    "items": []
+    "items": [
+      {
+        "name": "asdadsa",
+        "description": "asdasda",
+        "price": 231431
+      }
+    ]
   },
   {
     "category": "2",
