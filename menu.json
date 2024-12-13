@@ -1,7 +1,15 @@
 [
   {
     "category": "asdasd",
-    "items": []
+    "items": [
+      {
+        "img": "img/Деликатес курицый_5.jpg",
+        "name": "asdads",
+        "description": "asdasd",
+        "price": 124124,
+        "mass": "кг"
+      }
+    ]
   },
   {
     "category": "2",
