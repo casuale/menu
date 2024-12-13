@@ -1,7 +1,13 @@
 [
   {
     "category": "asdasd",
-    "items": []
+    "items": [
+      {
+        "name": "asdasd",
+        "description": "sadada",
+        "price": 123124
+      }
+    ]
   },
   {
     "category": "2",
