@@ -1,10 +1,14 @@
 [
   {
-    "name": "asd124",
-    "description": "124124",
-    "price": 124124,
-    "unit": "кг",
-    "category": "",
-    "image": "img/Деликатес курицый_1.jpg"
+    "category": "asdasd",
+    "items": [
+      {
+        "img": "img/Деликатес курицый_2.jpg",
+        "name": "фывфыв",
+        "description": "124141",
+        "price": 12412414,
+        "mass": "кг"
+      }
+    ]
   }
 ]
