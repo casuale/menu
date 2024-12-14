@@ -11,18 +11,5 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Индейка копчёная.jpg"
       }
     ]
-  },
-  {
-    "category": "2",
-    "items": [
-      {
-        "name": "w",
-        "description": "qwewq",
-        "price": 112,
-        "mass": 15121,
-        "massType": "кг",
-        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Паштет из куриной печени.jpg"
-      }
-    ]
   }
 ]
