@@ -1,6 +1,15 @@
 [
   {
     "category": "пчмсмчмч",
-    "items": []
+    "items": [
+      {
+        "name": "asdasd",
+        "description": "asdasd",
+        "price": 1213,
+        "mass": 1212,
+        "massType": "кг",
+        "img": "img/Индейка копчёная.jpg"
+      }
+    ]
   }
 ]
