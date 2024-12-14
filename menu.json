@@ -1,15 +1,6 @@
 [
   {
     "category": "пчмсмчмч",
-    "items": [
-      {
-        "name": "sadad",
-        "description": "asdas",
-        "price": 12313,
-        "mass": 21313,
-        "massType": "г",
-        "img": "img/Деликатес курицый.jpg"
-      }
-    ]
+    "items": []
   }
 ]
