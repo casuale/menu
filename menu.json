@@ -9,6 +9,14 @@
         "mass": 50,
         "massType": "кг",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Колбаса куриная, варёная.jpg"
+      },
+      {
+        "name": "Сап",
+        "description": "Оооолддорпппа",
+        "price": 15000,
+        "mass": 125,
+        "massType": "л",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241123_102710_454.jpg"
       }
     ]
   }
