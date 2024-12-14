@@ -1,6 +1,15 @@
 [
   {
     "category": "пчмсмчмч",
-    "items": []
+    "items": [
+      {
+        "name": "asdasdas",
+        "description": "sadsada",
+        "price": 12313,
+        "mass": 24124,
+        "massType": "г",
+        "img": "C:\\fakepath\\Индейка копчёная.jpg"
+      }
+    ]
   }
 ]
