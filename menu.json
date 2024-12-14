@@ -1,6 +1,15 @@
 [
   {
     "category": "пчмсмчмч",
-    "items": []
+    "items": [
+      {
+        "name": "dasd",
+        "description": "asdas",
+        "price": 124124,
+        "mass": 124124,
+        "massType": "кг",
+        "img": "C:\\fakepath\\Деликатес курицый.jpg"
+      }
+    ]
   }
 ]
