@@ -17,6 +17,14 @@
         "mass": 125,
         "massType": "л",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241123_102710_454.jpg"
+      },
+      {
+        "name": "Роп",
+        "description": "Он",
+        "price": 200,
+        "mass": 350,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/images.jpeg"
       }
     ]
   }
