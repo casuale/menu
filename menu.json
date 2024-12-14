@@ -1,6 +1,15 @@
 [
   {
     "category": "пчмсмчмч",
-    "items": []
+    "items": [
+      {
+        "name": "adasdasdasdasda",
+        "description": "12412414",
+        "price": 12414,
+        "mass": 12412,
+        "massType": "кг",
+        "img": "img/Деликатес куриный.jpg"
+      }
+    ]
   }
 ]
