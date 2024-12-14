@@ -1,6 +1,15 @@
 [
   {
     "category": "пчмсмчмч",
-    "items": []
+    "items": [
+      {
+        "name": "asdsa",
+        "description": "asdasda",
+        "price": 234234,
+        "mass": 23423,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Индейка копчёная.jpg"
+      }
+    ]
   }
 ]
