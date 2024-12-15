@@ -1,15 +1,6 @@
 [
   {
     "category": "asdasd",
-    "items": [
-      {
-        "name": "asdasdadada",
-        "description": "asdasdasdasasd",
-        "price": 21412412,
-        "mass": 1212512,
-        "massType": "кг",
-        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Паштет из куриной печени1.jpg"
-      }
-    ]
+    "items": []
   }
 ]
