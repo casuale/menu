@@ -5,6 +5,15 @@
   },
   {
     "category": "asdasd",
-    "items": []
+    "items": [
+      {
+        "name": "zxcxzc",
+        "description": "12411412",
+        "price": 2412,
+        "mass": 4124,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Индейка копчёная1.jpg"
+      }
+    ]
   }
 ]
