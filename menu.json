@@ -1,6 +1,15 @@
 [
   {
     "category": "asdasasda",
-    "items": []
+    "items": [
+      {
+        "name": "dasdasdasd212",
+        "description": "dasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdaddasdad",
+        "price": 512515151,
+        "mass": 125412,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Крылышки копчёные1.jpg"
+      }
+    ]
   }
 ]
