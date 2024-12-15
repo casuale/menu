@@ -1,6 +1,15 @@
 [
   {
     "category": "asdad",
-    "items": []
+    "items": [
+      {
+        "name": "asdsada1241412",
+        "description": "1241asd1241asd1241asd1241asd1241asd1241asd1241asd1241asd1241asd1241asd1241asd",
+        "price": 1412,
+        "mass": 1241,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/6.jpg"
+      }
+    ]
   }
 ]
