@@ -17,7 +17,12 @@
         "mass": 125,
         "massType": "л",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241123_102710_454.jpg"
-      },
+      }
+    ]
+  },
+  {
+    "category": "Сп",
+    "items": [
       {
         "name": "Роп",
         "description": "Он",
@@ -27,9 +32,5 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/images.jpeg"
       }
     ]
-  },
-  {
-    "category": "Сп",
-    "items": []
   }
 ]
