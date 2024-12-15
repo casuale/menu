@@ -22,6 +22,15 @@
   },
   {
     "category": "ssdt43",
-    "items": []
+    "items": [
+      {
+        "name": "0af9as0fa9",
+        "description": "5asdasdasasd",
+        "price": 124124,
+        "mass": 1241,
+        "massType": "кг",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/4-1.jpg"
+      }
+    ]
   }
 ]
