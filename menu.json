@@ -105,14 +105,6 @@
         "mass": 100,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса из говядины.jpg"
-      },
-      {
-        "name": "Рулет из телятины",
-        "description": "Рулет из нежнейшей телятины, приправленный ароматными специями и травами. Идеальный выбор для праздничного стола или сытного перекуса. Готовится с любовью и заботой о каждом ингредиенте.",
-        "price": 26900,
-        "mass": 100,
-        "massType": "г",
-        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/4.jpg"
       }
     ]
   },
@@ -225,6 +217,14 @@
         "mass": 100,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса Венская говяжья.jpg"
+      },
+      {
+        "name": "Рулет из телятины",
+        "description": "Рулет из нежнейшей телятины, приправленный ароматными специями и травами. Идеальный выбор для праздничного стола или сытного перекуса. Готовится с любовью и заботой о каждом ингредиенте.",
+        "price": 26900,
+        "mass": 100,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/4.jpg"
       }
     ]
   },
