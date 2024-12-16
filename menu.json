@@ -933,6 +933,14 @@
         "mass": 500,
         "massType": "кг",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_191736_629.jpg"
+      },
+      {
+        "name": "Вареники с вишней и творогом",
+        "description": "Наша начинка очень интересная. Особенно будет по душе любителям пасты Болоньезе, ведь именно эта паста была вдохновителем этого шедевра и всей нашей команды.",
+        "price": 48500,
+        "mass": 500,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192003_677.jpg"
       }
     ]
   }
