@@ -89,14 +89,6 @@
         "mass": 100,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/3.jpg"
-      },
-      {
-        "name": "Паштет из говяжьей печени",
-        "description": "Благодаря высокому содержанию белка прекрасно насыщает организм и утоляет голод. Нежный и невероятно вкусный паштет можно подавать и на завтрак, и на перекус, и на обед, и на ужин!",
-        "price": 21400,
-        "mass": 100,
-        "massType": "г",
-        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg"
       }
     ]
   },
@@ -225,6 +217,14 @@
         "mass": 100,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса из говядины.jpg"
+      },
+      {
+        "name": "Паштет из говяжьей печени",
+        "description": "Благодаря высокому содержанию белка прекрасно насыщает организм и утоляет голод. Нежный и невероятно вкусный паштет можно подавать и на завтрак, и на перекус, и на обед, и на ужин!",
+        "price": 21400,
+        "mass": 100,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg"
       }
     ]
   },
