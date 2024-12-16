@@ -816,6 +816,14 @@
         "mass": 800,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192427_153.jpg"
+      },
+      {
+        "name": " Хоровац",
+        "description": "Одно из извеснейших блюд армянской кухни мы считаем блюдо под названием хоровац. Каждый ценитель настоящих шашлыков вам это скажет.  Вместе с шашлыками этот салат - просто сказочное сочетание.",
+        "price": 42000,
+        "mass": 500,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192427_153-1.jpg"
       }
     ]
   },
