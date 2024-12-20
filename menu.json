@@ -18,7 +18,7 @@
         "price": 11600,
         "mass": 100,
         "massType": "г",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Колбаса куриная, варёная.jpg",
