@@ -48,7 +48,8 @@
         "description": "Нежный паштет из свежей куриной печени с пряными нотками. Прекрасно сочетается с хрустящим хлебом или крекерами.",
         "price": 11100,
         "mass": 100,
-        "massType": "г"
+        "massType": "г",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Перепёлки копчёные.jpg",
