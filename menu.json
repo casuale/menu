@@ -65,11 +65,12 @@
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Рулет из курицы тандыр.jpg",
-        "name": "Рулет из курицы тандыр",
+        "name": "Рулет из курицы \"тандыр\"",
         "description": "Нежное куриное мясо, приготовленное по технологии тандыр, с богатым вкусом специй и лёгким ароматом копчения.",
         "price": 15500,
         "mass": 100,
-        "massType": "г"
+        "massType": "г",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Сосиски куриные с сыром.jpg",
