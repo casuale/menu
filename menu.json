@@ -651,7 +651,9 @@
         "name": "Утка Magret",
         "description": "Изысканный  деликатес, приготовленный из нежного утиного мяса, который подвергается холодному копчению для придания мясу неповторимого вкуса и аромата",
         "price": 63000,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Буженина копченая -2.jpg",
