@@ -34,7 +34,8 @@
         "description": "Пикантные куриные крылышки, приготовленные методом натурального копчения. Станут настоящим украшением вашего стола.",
         "price": 17800,
         "mass": 100,
-        "massType": "г"
+        "massType": "г",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Окорочка копчёные.jpg",
