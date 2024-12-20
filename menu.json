@@ -228,7 +228,8 @@
         "price": 74000,
         "mass": 500,
         "massType": "г",
-        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/photo_2024-12-17_17-26-35.jpg"
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/photo_2024-12-17_17-26-35.jpg",
+        "hidden": true
       },
       {
         "name": "Ветчина говяжья",
