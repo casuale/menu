@@ -815,8 +815,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Овощь/Маринованные огурцы.jpg",
         "name": "Маринованные помидоры",
         "description": "Маринованные томаты без кожицы.",
-        "price": 6100,
-        "mass": 100
+        "price": 7500,
+        "mass": 100,
+        "massType": "",
+        "hidden": true
       },
       {
         "name": "Равиоли Шампиньоны с сыром",
