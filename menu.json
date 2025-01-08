@@ -518,7 +518,8 @@
         "price": 59000,
         "mass": 500,
         "massType": "г",
-        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/photo_2024-12-17_17-26-35-1.jpg"
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/photo_2024-12-17_17-26-35-1.jpg",
+        "hidden": true
       }
     ]
   },
