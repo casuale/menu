@@ -859,8 +859,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Вареники с вишней.jpg",
         "name": "Вареники с вишней",
         "description": "Вкуснейшие, сочные и очень ароматные.",
-        "price": 43500,
-        "mass": 500
+        "price": 44500,
+        "mass": 500,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Вареники с творогом.jpg",
