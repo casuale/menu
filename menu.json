@@ -913,9 +913,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
         "name": "Пельмени куриные",
         "description": "Нежное тесто сохранит при варке восхитительно вкусный бульон и курятину с ароматными пряностями.",
-        "price": 57500,
+        "price": 58500,
         "mass": 500,
-        "massType": "КГ."
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
