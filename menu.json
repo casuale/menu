@@ -940,9 +940,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
         "name": "Пельмени говядина + свинина",
         "description": "Лучшее решение для вкусного ужина или обеда. Аппетитные и сытные, с сочной начинкой и наваристым бульоном.",
-        "price": 81500,
+        "price": 82500,
         "mass": 500,
-        "massType": "КГ."
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельменики.jpg",
