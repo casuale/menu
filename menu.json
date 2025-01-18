@@ -868,8 +868,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Вареники с творогом.jpg",
         "name": "Вареники с творогом",
         "description": "Забыть этот вкус вы не сможете никогда - это лучший десерт.",
-        "price": 52500,
-        "mass": 500
+        "price": 53500,
+        "mass": 500,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Вареники с творогом.jpg",
