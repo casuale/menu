@@ -400,7 +400,9 @@
         "name": "Шейка копчёная со специями",
         "description": "Свиная шейка укутанная ароматными специями, копчёная горячим дымом фруктовой щепы",
         "price": 39800,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Колбаса свинина и говядина остра.jpg",
