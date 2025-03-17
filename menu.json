@@ -1029,6 +1029,16 @@
   },
   {
     "category": "🥤 Напитки 🥤",
-    "items": []
+    "items": [
+      {
+        "name": "Квас классический",
+        "description": "",
+        "price": 30000,
+        "mass": 1,
+        "massType": "л",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/квас.JPG",
+        "hidden": false
+      }
+    ]
   }
 ]
