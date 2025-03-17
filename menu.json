@@ -335,7 +335,9 @@
         "name": "Ребрышки копченые",
         "description": "Божественно ароматное удовольствие для повседневности и праздника!",
         "price": 11300,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сало с черным перцем.jpg",
