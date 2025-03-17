@@ -1015,6 +1015,15 @@
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192118_106.jpg",
         "hidden": true
+      },
+      {
+        "name": "Хинкали ",
+        "description": "Сочные, пикантные \"мешочки\" с мясной начинкой подкупают своей простотой и невероятным вкусом.",
+        "price": 71300,
+        "mass": 520,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/хинкалии.jpg",
+        "hidden": false
       }
     ]
   }
