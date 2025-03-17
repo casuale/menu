@@ -1038,6 +1038,15 @@
         "massType": "л",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/квас.JPG",
         "hidden": false
+      },
+      {
+        "name": "Квас с изюмом",
+        "description": "",
+        "price": 30000,
+        "mass": 1,
+        "massType": "л",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/квас-1.JPG",
+        "hidden": false
       }
     ]
   }
