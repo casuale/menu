@@ -1052,6 +1052,16 @@
   },
   {
     "category": "🥖 Хлеб 🥖",
-    "items": []
+    "items": [
+      {
+        "name": "Хлеб московский бородинский🥖 (390 грамм)",
+        "description": "",
+        "price": 51000,
+        "mass": 1,
+        "massType": "шт",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/хинкали.jpg",
+        "hidden": false
+      }
+    ]
   }
 ]
