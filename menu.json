@@ -572,7 +572,7 @@
         "mass": 100,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_185635_689.jpg",
-        "hidden": false
+        "hidden": true
       },
       {
         "name": "Икра Кета (Сахалин)",
