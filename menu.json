@@ -791,7 +791,7 @@
         "price": 7500,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "name": "Равиоли Шампиньоны с сыром",
