@@ -758,7 +758,9 @@
         "name": "Грибы вешенки",
         "description": "Классические грибочки станут прекрасной закуской.",
         "price": 14900,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Овощь/Помидоры Сеччи.jpg",
