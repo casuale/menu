@@ -825,15 +825,6 @@
         "hidden": false
       },
       {
-        "name": "Равиоли Шампиньоны с сыром",
-        "description": "Приготовлены с душой и любовью по домашнему рецепту.",
-        "price": 71500,
-        "mass": 100,
-        "massType": "г",
-        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192118_106.jpg",
-        "hidden": true
-      },
-      {
         "name": " Хоровац",
         "description": "Одно из извеснейших блюд армянской кухни мы считаем блюдо под названием хоровац. Каждый ценитель настоящих шашлыков вам это скажет.  Вместе с шашлыками этот салат - просто сказочное сочетание.",
         "price": 62000,
@@ -1015,6 +1006,15 @@
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192003_677.jpg",
         "hidden": false
+      },
+      {
+        "name": "Равиоли Шампиньоны с сыром",
+        "description": "Приготовлены с душой и любовью по домашнему рецепту.",
+        "price": 71500,
+        "mass": 100,
+        "massType": "г",
+        "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192118_106.jpg",
+        "hidden": true
       }
     ]
   }
