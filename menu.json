@@ -515,7 +515,9 @@
         "name": "Ягнёнок копчёный",
         "description": "Мясо ягнёнка маринуется со специями и травами долгое время, затем коптится на фруктовой щепе",
         "price": 43000,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Ягненок/Ягненок копчёный.jpg",
