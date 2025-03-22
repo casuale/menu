@@ -232,7 +232,8 @@
         "description": "Сочные куриные сосиски с нежной сырной начинкой. Отличный выбор для завтрака или перекуса.",
         "price": 13300,
         "mass": 100,
-        "massType": "г"
+        "massType": "г",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Сосиски куриные.jpg",
