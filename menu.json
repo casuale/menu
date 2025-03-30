@@ -280,7 +280,9 @@
         "name": "Буженина запеченная",
         "description": "Нежное мясо отлично сочетается с овощами, крупами, а еще деликатес идеален в бутербродах!",
         "price": 34200,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Паштет из копченого сала.jpg",
