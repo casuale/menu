@@ -6,8 +6,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/3.jpg",
         "name": "Ветчина говяжья",
         "description": "Нежная и сочная ветчина из отборной говядины. Прекрасно подходит для бутербродов, салатов или в качестве самостоятельного деликатеса. Богатый вкус и тонкий аромат делают её настоящим украшением вашего стола.",
-        "price": 21000,
-        "mass": 100
+        "price": 18600,
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg",
