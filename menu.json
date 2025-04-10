@@ -1053,11 +1053,11 @@
       {
         "name": "Равиоли Шампиньоны с сыром",
         "description": "Приготовлены с душой и любовью по домашнему рецепту.",
-        "price": 71500,
+        "price": 73000,
         "mass": 100,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/хинкали-1.jpg",
-        "hidden": true
+        "hidden": false
       },
       {
         "name": "Хинкали ",
