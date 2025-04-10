@@ -1080,7 +1080,7 @@
         "mass": 1,
         "massType": "л",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/квас.JPG",
-        "hidden": false
+        "hidden": true
       },
       {
         "name": "Квас с изюмом",
