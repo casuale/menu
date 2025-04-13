@@ -260,7 +260,8 @@
         "description": "Наши колбаски должны быть в морозилке каждого дома! Потому что это:\n-легко и быстро;\n-вкусно и натурально;\n-по-домашнему!",
         "price": 31700,
         "mass": 100,
-        "massType": "г"
+        "massType": "г",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Шейка копчёная со специями.jpg",
