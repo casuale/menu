@@ -276,8 +276,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Буженина копченая.jpg",
         "name": "Буженина копченая",
         "description": "Копчёная буженина – наслаждение для ценителей богатого вкуса свинины, сочной и нежной. Отлично сочетается с  овощами и создаёт аппетитную палитру вкуса «с дымком»",
-        "price": 34200,
-        "mass": 100
+        "price": 29900,
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Буженина запеченная.jpg",
