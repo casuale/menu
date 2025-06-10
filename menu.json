@@ -9,7 +9,7 @@
         "price": 18600,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg",
@@ -165,7 +165,9 @@
         "name": "Колбаски для жарки говяжьи",
         "description": "Говяжьи колбаски имеют сочную текстуру и насыщенный вкус, идеально сохраняющийся при жарке на гриле, сковороде или на углях. Они отлично сочетаются с разнообразными соусами и гарнирами, идеальны для приготовления вкусных закусок, блюд на гриле или для использования в различных рецептах.",
         "price": 30600,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       }
     ]
   },
@@ -179,7 +181,7 @@
         "price": 12400,
         "mass": 100,
         "massType": "г",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Индейка копчёная.jpg",
@@ -188,7 +190,7 @@
         "price": 15000,
         "mass": 100,
         "massType": "г",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Колбаса куриная, варёная.jpg",
