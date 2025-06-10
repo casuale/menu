@@ -238,7 +238,8 @@
         "description": "Изысканный деликатес из перепёлок с тонким вкусом и ароматом дымка. Настоящее гастрономическое наслаждение!",
         "price": 30900,
         "mass": 100,
-        "massType": "г"
+        "massType": "г",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Рулет из курицы тандыр.jpg",
