@@ -395,7 +395,9 @@
         "name": "Сало с красным перцем",
         "description": "Имеет приятную остроту и оставляет легкое и приятное послевкусие.",
         "price": 11200,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сало копченое.jpg",
