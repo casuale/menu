@@ -439,8 +439,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Тушенка из свинины.jpg",
         "name": "Тушенка из свинины",
         "description": "Вкус свинины здесь выгодно поддерживается ароматным лавровым листом, душистым перцем и солью.",
-        "price": 92000,
-        "mass": 400
+        "price": 107000,
+        "mass": 350,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Колбаса вареная свинина+говядина.jpg",
