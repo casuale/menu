@@ -220,7 +220,8 @@
         "description": "Ароматные куриные окорочка с насыщенным вкусом копчения. Идеальный выбор для закуски или основного блюда.",
         "price": 12700,
         "mass": 100,
-        "massType": "г"
+        "massType": "г",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg",
