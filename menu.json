@@ -185,10 +185,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Индейка копчёная.jpg",
         "name": "Рулет из индейки",
         "description": "Нежное и ароматное мясо индейки, приготовленное методом натурального копчения. Прекрасный выбор для тех, кто ценит изысканный вкус.",
-        "price": 13300,
+        "price": 15000,
         "mass": 100,
         "massType": "г",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Колбаса куриная, варёная.jpg",
