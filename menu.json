@@ -96,17 +96,19 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Бастурма бон филе.jpg",
         "name": "Бастурма бон филе",
         "description": "Это лучшая и нежнейшая часть вырезки без жира, которая вялится более 14 дней. Благодаря специальной смеси специй и гранатового сока, бон-филе приобретает чудную палитру душистых ароматов и ни с чем несравнимый вкус",
-        "price": 73100,
+        "price": 80400,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса вареная говяжья.jpg",
         "name": "Колбаса вареная говяжья",
         "description": "Говяжье мясо очищенное от жилок, измельчается в блендере, смешивается с ароматными специями, готовый батон колбасы доводится до кулинарной готовности методом sous-vide",
         "price": 18600,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Сосиски говяжьи.jpg",
@@ -115,7 +117,7 @@
         "price": 18300,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса Венская говяжья.jpg",
@@ -133,7 +135,7 @@
         "price": 31700,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Деликатес говяжий.jpg",
@@ -149,7 +151,9 @@
         "name": "Шпикачки говяжьи",
         "description": "Измельчённое говяжье мясо с добавлением резанного кубиками курдючного сала и ароматных специй.",
         "price": 18600,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса Венская говяжья.jpg",
