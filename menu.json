@@ -305,7 +305,9 @@
         "name": "Паштет из копченого сала",
         "description": "Это очень пикантная и нежная закуска, принадлежащая украинской кухне.",
         "price": 7900,
-        "mass": 100
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Паштет из копченого сала.jpg",
