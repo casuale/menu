@@ -693,8 +693,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Тайский соус.jpg",
         "name": "Итальянский соус",
         "description": "Соус является своеобразной приправой к любым блюдам. Жареный лук с чесноком на оливковом масле, тёртый томат, соль специи.",
-        "price": 9700,
-        "mass": 100
+        "price": 10200,
+        "mass": 100,
+        "massType": "",
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Горчица.jpg",
