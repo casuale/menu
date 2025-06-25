@@ -1155,11 +1155,11 @@
       {
         "name": "Хлеб московский бородинский🥖 (390 грамм)",
         "description": "",
-        "price": 55000,
+        "price": 58000,
         "mass": 1,
         "massType": "шт",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/хлеб.JPG",
-        "hidden": true
+        "hidden": false
       }
     ]
   }
