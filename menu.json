@@ -555,7 +555,7 @@
       {
         "name": "Паштет из мяса свинина + говядина",
         "description": "Это очень пикантная и нежная закуска.",
-        "price": 21000,
+        "price": 22100,
         "mass": 100,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_185633_319.jpg",
