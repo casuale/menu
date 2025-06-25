@@ -597,8 +597,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Ягненок/Курдючное сало соленое с черным перцем.jpg",
         "name": "Курдючное сало соленое с черным перцем",
         "description": "Приправленный чесночком, а затем обваленный в красном или черном перце, имеет приятный пряный вкус и аромат.",
-        "price": 23600,
-        "mass": 100
+        "price": 24800,
+        "mass": 100,
+        "massType": "",
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Ягненок/Курдючное сало соленое с черным перцем.jpg",
