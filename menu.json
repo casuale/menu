@@ -996,10 +996,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
         "name": "Пельмени говяжьи",
         "description": "Нежное тесто, много сочной начинки - все как вы любите.",
-        "price": 76000,
+        "price": 80000,
         "mass": 500,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
