@@ -1005,10 +1005,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
         "name": "Пельмени с зеленью и яйцом",
         "description": "Изысканные и необычные на вкус. В них вы найдёте свежую ароматную сезонную зелень в тонком тесте ручной лепки — одуванчик, рукола, мята и щавель.",
-        "price": 41500,
+        "price": 44000,
         "mass": 500,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
