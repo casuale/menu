@@ -1171,7 +1171,7 @@
         "mass": 1,
         "massType": "шт",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/хлеб.JPG",
-        "hidden": false
+        "hidden": true
       }
     ]
   }
