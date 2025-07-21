@@ -1116,7 +1116,7 @@
         "mass": 500,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192003_677.jpg",
-        "hidden": false
+        "hidden": true
       },
       {
         "name": "Равиоли Шампиньоны с сыром",
