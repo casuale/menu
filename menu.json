@@ -1157,7 +1157,7 @@
         "mass": 1,
         "massType": "л",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/квас-1.JPG",
-        "hidden": false
+        "hidden": true
       }
     ]
   },
