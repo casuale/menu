@@ -239,7 +239,7 @@
         "price": 32400,
         "mass": 100,
         "massType": "г",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Рулет из курицы тандыр.jpg",
