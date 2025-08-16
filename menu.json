@@ -764,7 +764,7 @@
         "price": 40000,
         "mass": 200,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Нарезка/Сало с чесноком.jpg",
