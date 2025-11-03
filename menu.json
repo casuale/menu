@@ -913,7 +913,7 @@
         "price": 80000,
         "mass": 1,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Овощь/Маринованные огурцы.jpg",
