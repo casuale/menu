@@ -582,7 +582,7 @@
         "price": 31800,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Ягненок/Ягненок копчёный.jpg",
