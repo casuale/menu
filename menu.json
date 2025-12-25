@@ -254,10 +254,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Сосиски куриные.jpg",
         "name": "Сосиски куриные",
         "description": "Классические куриные сосиски с насыщенным вкусом. Прекрасно подходят для приготовления горячих блюд или лёгких закусок.",
-        "price": 12900,
+        "price": 14200,
         "mass": 100,
         "massType": "г",
-        "hidden": true
+        "hidden": false
       }
     ]
   },
