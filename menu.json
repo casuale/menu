@@ -493,10 +493,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Шпикачки говяжьи.jpg",
         "name": "Шпикачки свинина + говядина",
         "description": "Шпикачки имеют мягкую и нежную консистенцию, а также легкое сливочное послевкусие. Они являются отличным выбором для любителей мясных закусок или в качестве добавки к основным блюдам.",
-        "price": 20600,
+        "price": 28700,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Сосиски говяжьи.jpg",
