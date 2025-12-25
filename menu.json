@@ -711,10 +711,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Зверобой.jpg",
         "name": "Зверобой",
         "description": "Этот соус подойдет к любому мясу, гарниру, пельменям. И даже просто на кусок свежей лепешки или подсушенный батон будет очень вкусно.",
-        "price": 18500,
+        "price": 20300,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       }
     ]
   },
