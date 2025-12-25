@@ -87,10 +87,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Бастурма.jpg",
         "name": "Бастурма",
         "description": "Эта вяленная говяжья вырезка, укутанная неповторимым секретным сбором особых специй",
-        "price": 58300,
+        "price": 69700,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Бастурма бон филе.jpg",
