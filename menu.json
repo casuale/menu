@@ -457,10 +457,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Шейка копчёная со специями.jpg",
         "name": "Шейка копчёная со специями",
         "description": "Свиная шейка укутанная ароматными специями, копчёная горячим дымом фруктовой щепы",
-        "price": 39800,
+        "price": 44100,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Колбаса свинина и говядина остра.jpg",
