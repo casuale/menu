@@ -1103,7 +1103,7 @@
       {
         "name": "Пельмени с уткой",
         "description": "Нежное тесто сохранит при варке восхитительно вкусный бульон и курятину с ароматными пряностями.",
-        "price": 83000,
+        "price": 91000,
         "mass": 500,
         "massType": "кг",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_191736_629.jpg",
