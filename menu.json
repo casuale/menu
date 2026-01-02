@@ -886,7 +886,7 @@
         "price": 24500,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Овощь/Грибы шампиньоны.jpg",
