@@ -81,7 +81,7 @@
         "price": 91000,
         "mass": 350,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Бастурма.jpg",
