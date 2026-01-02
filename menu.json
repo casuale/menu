@@ -904,7 +904,7 @@
         "price": 26200,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Овощь/Хоровац.jpg",
