@@ -1098,7 +1098,7 @@
         "price": 42000,
         "mass": 500,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "name": "Пельмени с уткой",
