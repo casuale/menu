@@ -271,7 +271,7 @@
         "price": 28700,
         "mass": 100,
         "massType": "г",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Шейка копчёная со специями.jpg",
