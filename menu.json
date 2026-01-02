@@ -809,7 +809,7 @@
         "price": 55000,
         "mass": 180,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Нарезка/Шпик с красным перцем.jpg",
