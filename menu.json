@@ -257,7 +257,7 @@
         "price": 14200,
         "mass": 100,
         "massType": "г",
-        "hidden": false
+        "hidden": true
       }
     ]
   },
