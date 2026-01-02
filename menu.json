@@ -514,7 +514,7 @@
         "price": 25100,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Шпик с черным перцем.jpg",
