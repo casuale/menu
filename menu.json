@@ -487,7 +487,7 @@
         "price": 27900,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Шпикачки говяжьи.jpg",
