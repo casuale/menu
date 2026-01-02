@@ -442,7 +442,7 @@
         "price": 141000,
         "mass": 350,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Колбаса вареная свинина+говядина.jpg",
