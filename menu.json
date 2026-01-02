@@ -550,7 +550,7 @@
         "price": 26300,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "name": "Паштет из мяса свинина + говядина",
