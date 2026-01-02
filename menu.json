@@ -931,7 +931,7 @@
         "price": 6000,
         "mass": 100,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "name": " Хоровац",
