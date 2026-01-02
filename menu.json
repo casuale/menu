@@ -1017,7 +1017,7 @@
         "price": 68000,
         "mass": 500,
         "massType": "",
-        "hidden": false
+        "hidden": true
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
