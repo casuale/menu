@@ -200,10 +200,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Колбаса куриная, варёная.jpg",
         "name": "Колбаса куриная, варёная",
         "description": "Классическая куриная колбаса с мягким вкусом и нежной текстурой. Отлично подойдёт для завтрака или лёгкого бутерброда.",
-        "price": 14200,
+        "price": 12900,
         "mass": 100,
         "massType": "г",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Крылышки копчёные.jpg",
