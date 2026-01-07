@@ -349,10 +349,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сальтисон.jpg",
         "name": "Сальтисон",
         "description": "Сальтисон - это мясной деликатес, который изготавливается из головной части свинины, с добавлением отборных кусочков мяса, специй и чесночка . Наша традиционная рецептура придает сальтисону неповторимый вкус и текстуру.",
-        "price": 32000,
+        "price": 29100,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Карбонад копченый.jpg",
