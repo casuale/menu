@@ -702,10 +702,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Горчица.jpg",
         "name": "Горчица",
         "description": "Широко используется в различных кулинарных традициях и является популярным добавкой к многим блюдам.",
-        "price": 28300,
+        "price": 25700,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Зверобой.jpg",
