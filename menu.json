@@ -547,10 +547,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/3.jpg",
         "name": "Ветчина из говядины и свинины",
         "description": "Кусочки первосортной говядины и свинины, перемешанные с рубленым фаршем из мяса, сала и особого набора специй.",
-        "price": 26300,
+        "price": 23900,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "name": "Паштет из мяса свинина + говядина",
