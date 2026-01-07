@@ -675,10 +675,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Тайский соус.jpg",
         "name": "Тайский соус",
         "description": "Это рубленный красный острый перец, ароматный чеснок в сочетании с fish-соусом, лимонным соком и свежей зеленью.",
-        "price": 28400,
+        "price": 25800,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Тайский соус.jpg",
