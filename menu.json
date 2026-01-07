@@ -661,10 +661,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Конина/казы.jpg",
         "name": "Казы",
         "description": "Это нежность и безупречный вкус, которые особенно нравятся нашим гостям из других стран",
-        "price": 277000,
+        "price": 252000,
         "mass": 500,
         "massType": "",
-        "hidden": true
+        "hidden": false
       }
     ]
   },
