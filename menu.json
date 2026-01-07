@@ -892,10 +892,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Овощь/Грибы шампиньоны.jpg",
         "name": "Грибы вешенки",
         "description": "Классические грибочки станут прекрасной закуской.",
-        "price": 9400,
+        "price": 8600,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Овощь/Помидоры Сеччи.jpg",
