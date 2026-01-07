@@ -448,10 +448,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Колбаса вареная свинина+говядина.jpg",
         "name": "Колбаса вареная свинина+говядина",
         "description": "Говяжье и свиное мясо очищенное от жилок, измельчается в блендере, смешивается с ароматными специями, готовый батон колбасы доводится до кулинарной готовности методом sous-vide",
-        "price": 22600,
+        "price": 20500,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Шейка копчёная со специями.jpg",
