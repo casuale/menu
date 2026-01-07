@@ -218,10 +218,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Окорочка копчёные.jpg",
         "name": "Окорочка копчёные",
         "description": "Ароматные куриные окорочка с насыщенным вкусом копчения. Идеальный выбор для закуски или основного блюда.",
-        "price": 14700,
+        "price": 13300,
         "mass": 100,
         "massType": "г",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg",
