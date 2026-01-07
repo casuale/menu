@@ -978,10 +978,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Вареники с творогом.jpg",
         "name": "Вареники с мясом",
         "description": "Наша начинка очень интересная. Особенно будет по душе любителям пасты Болоньезе, ведь именно эта паста была вдохновителем этого шедевра и всей нашей команды.",
-        "price": 88000,
+        "price": 80000,
         "mass": 500,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельмени из ягненка.jpg",
