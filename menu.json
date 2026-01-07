@@ -340,10 +340,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Чалогач копченый.jpg",
         "name": "Чалогач копченый",
         "description": "Чалагач – это первосортная корейка на рёбрышках, маринованная в душистой смеси специй. Лучшие вкусовые качества чалагач получает при медленном натуральном копчении",
-        "price": 47400,
+        "price": 43100,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сальтисон.jpg",
