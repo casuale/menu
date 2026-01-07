@@ -684,10 +684,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Тайский соус.jpg",
         "name": "Соус Шашлычный",
         "description": "Помидоры маринованные Чеснок Зелень (кинза петрушка) Черный перец",
-        "price": 17900,
+        "price": 16300,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Соус/Тайский соус.jpg",
