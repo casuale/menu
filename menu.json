@@ -403,10 +403,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сало копченое.jpg",
         "name": "Сало копченое",
         "description": "Что может быть вкуснее, чем тоненьий ломтик настоящего, ароматного сала, со спелым помидорчиком, чёрным хлебушком и зеленым или красным луком вприкуску",
-        "price": 9000,
+        "price": 8200,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сало по-итальянски.jpg",
