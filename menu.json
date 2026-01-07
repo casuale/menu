@@ -538,10 +538,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Ребрышки мясистые.jpg",
         "name": "Ребрышки мясистые",
         "description": "Мясистые ребрышки - это изумительное мясное блюдо, которое привлекает внимание своей сочностью и богатым вкусом. Они приготовлены из отборных свинных ребрышек, которые отличаются высоким содержанием мяса на кости.",
-        "price": 35600,
+        "price": 32300,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/3.jpg",
