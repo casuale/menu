@@ -1050,10 +1050,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Пельменики.jpg",
         "name": "Пельменики",
         "description": "Начинка с одной стороны готовится из говяжьего фарша и ароматных специй, для сочности добавляется кусочек сливочного маслица. В сторону вареника же вкладывается картофельное облачко  с жаренным лучком.",
-        "price": 65000,
+        "price": 59000,
         "mass": 500,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Манты восточные.jpg",
