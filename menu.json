@@ -412,10 +412,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сало по-итальянски.jpg",
         "name": "Сало по-итальянски",
         "description": "С размарином, тимьяном и базиликом, а также с чесноком",
-        "price": 22200,
+        "price": 20200,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Сало/Сало с чесноком.jpg",
