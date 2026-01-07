@@ -227,10 +227,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg",
         "name": "Паштет из куриной печени",
         "description": "Нежный паштет из свежей куриной печени с пряными нотками. Прекрасно сочетается с хрустящим хлебом или крекерами.",
-        "price": 12800,
+        "price": 11700,
         "mass": 100,
         "massType": "г",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Перепёлки копчёные.jpg",
