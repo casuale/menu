@@ -15,10 +15,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Паштет из куриной печени.jpg",
         "name": "Паштет из говяжьей печени",
         "description": "Благодаря высокому содержанию белка прекрасно насыщает организм и утоляет голод. Нежный и невероятно вкусный паштет можно подавать и на завтрак, и на перекус, и на обед, и на ужин!",
-        "price": 24700,
+        "price": 22500,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/4.jpg",
