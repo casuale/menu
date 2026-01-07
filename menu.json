@@ -1077,10 +1077,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Манты восточные.jpg",
         "name": "Манты свинина и говядина",
         "description": "Начинка готовится из ценнейшей вырезки – бон-филе.  Наилучшее качество бон-филе обеспечивают вкусный бульон и мягкое сочное мясо.",
-        "price": 90700,
+        "price": 89200,
         "mass": 420,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Полуфабрикаты/Вареники с картофелем и грибами.jpg",
