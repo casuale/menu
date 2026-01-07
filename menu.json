@@ -150,10 +150,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Шпикачки говяжьи.jpg",
         "name": "Шпикачки говяжьи",
         "description": "Измельчённое говяжье мясо с добавлением резанного кубиками курдючного сала и ароматных специй.",
-        "price": 21500,
+        "price": 19500,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса Венская говяжья.jpg",
