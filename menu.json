@@ -1153,11 +1153,11 @@
       {
         "name": "Квас с изюмом",
         "description": "",
-        "price": 42000,
+        "price": 38000,
         "mass": 1,
         "massType": "л",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/квас-1.JPG",
-        "hidden": true
+        "hidden": false
       }
     ]
   },
