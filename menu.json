@@ -203,7 +203,7 @@
         "price": 12900,
         "mass": 100,
         "massType": "г",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Куриные деликатесы/Крылышки копчёные.jpg",
