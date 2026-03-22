@@ -618,7 +618,7 @@
         "price": 33800,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       }
     ]
   },
