@@ -860,10 +860,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Нарезка/Казы.jpg",
         "name": "Казы 🔪",
         "description": "Это нежность и безупречный вкус, которые особенно нравятся нашим гостям из других стран",
-        "price": 61000,
+        "price": 85000,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "name": "🔪Буженина копченая🔪",
