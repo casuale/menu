@@ -153,7 +153,7 @@
         "price": 21800,
         "mass": 100,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Колбаса Венская говяжья.jpg",
