@@ -841,7 +841,7 @@
         "mass": 500,
         "massType": "г",
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/IMG_20241216_192427_153-1.jpg",
-        "hidden": true
+        "hidden": false
       }
     ]
   },
