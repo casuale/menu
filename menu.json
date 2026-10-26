@@ -60,10 +60,10 @@
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Тушенка говяжья.jpg",
         "name": "Тушенка говяжья",
         "description": "Нежнейшая говядина, тушенная с ароматным лавровым листом, душистым, черным и острым перцем",
-        "price": 83000,
+        "price": 93000,
         "mass": 350,
         "massType": "",
-        "hidden": true
+        "hidden": false
       },
       {
         "img": "https://raw.githubusercontent.com/casuale/menu/main/img/Говядина/Бастурма.jpg",
